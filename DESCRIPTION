@@ -18,3 +18,5 @@ Imports:
     grDevices,
     grid,
     Seurat
+URL: https://github.com/zhangsyhub/SeuratExtra
+BugReports: https://github.com/zhangsyhub/SeuratExtra/issues
