@@ -1,0 +1,20 @@
+Package: SeuratExtra
+Title: Professional Visualization Extensions for Seurat
+Version: 0.0.1
+Authors@R: 
+    person("Shiyue", "Zhang", , "shiyue_z@outlook.com", role = c("aut", "cre"))
+Description: A collection of plotting utilities for Seurat objects, 
+    designed for high-impact journal publications. Includes optimized 
+    dimension reduction plots with customized corner-arrow axes, 
+    automatic legend balancing, and rasterization support for large-scale 
+    single-cell datasets.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports: 
+    ggplot2,
+    ggrastr,
+    grDevices,
+    grid,
+    Seurat
