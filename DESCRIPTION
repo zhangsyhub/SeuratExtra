@@ -1,6 +1,6 @@
 Package: SeuratExtra
 Title: Professional Visualization Extensions for Seurat
-Version: 0.0.1
+Version: 0.1.0
 Authors@R: 
     person("Shiyue", "Zhang", , "shiyue_z@outlook.com", role = c("aut", "cre"))
 Description: A collection of plotting utilities for Seurat objects, 
